@@ -1,0 +1,41 @@
+.bombom{
+    background-color: rgb(142, 212, 212);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.caixa{
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+} 
+
+
+.iwant{
+    background-color: rgb(131, 200, 212);
+    margin: 10px;
+    padding: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+} 
+.you{
+    background-color: rgb(119, 171, 175);
+    margin: 10px;
+    margin-left: 10px;
+    padding: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+.inmyroom{
+    background-color: rgb(95, 119, 119);
+    margin: 10px;
+    margin-left: 10px;
+    padding: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
